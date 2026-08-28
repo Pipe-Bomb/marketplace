@@ -1,0 +1,59 @@
+{
+	"name": "Pipe Bomb Official",
+	"plugins": [
+		{
+			"id": "local-library",
+			"name": "Local Library",
+			"description": "Adds tracks from a local directory to Pipe Bomb.",
+			"authorName": "Pipe Bomb",
+			"authorUrl": "https://github.com/Pipe-Bomb",
+			"url": "https://github.com/Pipe-Bomb/local-library-plugin",
+			"repository": "https://github.com/Pipe-Bomb/local-library-plugin"
+		},
+		{
+			"id": "format",
+			"name": "Format",
+			"description": "Provides track attributes like codec and bitrate using ffprobe.",
+			"authorName": "Pipe Bomb",
+			"authorUrl": "https://github.com/Pipe-Bomb",
+			"url": "https://github.com/Pipe-Bomb/format-plugin",
+			"repository": "https://github.com/Pipe-Bomb/format-plugin"
+		},
+		{
+			"id": "chromaprint",
+			"name": "Chromaprint",
+			"description": "Generates AcoustID chromaprints as an Identity for all tracks.",
+			"authorName": "Pipe Bomb",
+			"authorUrl": "https://github.com/Pipe-Bomb",
+			"url": "https://github.com/Pipe-Bomb/chromaprint-plugin",
+			"repository": "https://github.com/Pipe-Bomb/chromaprint-plugin"
+		},
+		{
+			"id": "musicbrainz",
+			"name": "MusicBrainz",
+			"description": "Identifies and attributes tracks, artists & albums using the MusicBrainz API.",
+			"authorName": "Pipe Bomb",
+			"authorUrl": "https://github.com/Pipe-Bomb",
+			"url": "https://github.com/Pipe-Bomb/musicbrainz-plugin",
+			"repository": "https://github.com/Pipe-Bomb/musicbrainz-plugin"
+		},
+		{
+			"id": "discogs",
+			"name": "Discogs",
+			"description": "Attributes artists using the Discogs API.",
+			"authorName": "Pipe Bomb",
+			"authorUrl": "https://github.com/Pipe-Bomb",
+			"url": "https://github.com/Pipe-Bomb/discogs-plugin",
+			"repository": "https://github.com/Pipe-Bomb/discogs-plugin"
+		},
+		{
+			"id": "fanart-tv",
+			"name": "Fanart.tv",
+			"description": "Attributes artists using the Fanart.tv API.",
+			"authorName": "Pipe Bomb",
+			"authorUrl": "https://github.com/Pipe-Bomb",
+			"url": "https://github.com/Pipe-Bomb/fanart-tv-plugin",
+			"repository": "https://github.com/Pipe-Bomb/fanart-tv-plugin"
+		}
+	]
+}

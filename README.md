@@ -1,0 +1,6 @@
+<h1>
+    <img src="https://raw.githubusercontent.com/Pipe-Bomb/.github/refs/heads/master/assets/logos/Pipe%20Bomb%20no%20background%20w%20outline.png" width="40" />
+    Pipe Bomb Official Plugin Marketplace
+</h1>
+
+The default marketplace database of official plugins for Pipe Bomb.
