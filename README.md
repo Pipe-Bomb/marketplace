@@ -15,4 +15,4 @@ https://raw.githubusercontent.com/Pipe-Bomb/marketplace/refs/heads/master/market
 
 ## Credits & Contributing
 
-Credit goes to the Pipe Bomb team and the maintainers of the individual plugins. This repo isn't accepting contributions. If you have a plugin you'd like to add, check out the Community Marketplace.
+Credit goes to the Pipe Bomb team and the maintainers of the individual plugins. This repo isn't accepting contributions. If you have a plugin you'd like to add, check out the [Community Marketplace](https://github.com/pipe-bomb-community/community-marketplace).
