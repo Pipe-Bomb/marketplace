@@ -54,6 +54,15 @@
 			"authorUrl": "https://github.com/Pipe-Bomb",
 			"url": "https://github.com/Pipe-Bomb/fanart-tv-plugin",
 			"repository": "https://github.com/Pipe-Bomb/fanart-tv-plugin"
+		},
+		{
+			"id": "minisearch",
+			"name": "MiniSearch",
+			"description": "Uses MiniSearch to index Tracks, Artists and Albums.",
+			"authorName": "Pipe Bomb",
+			"authorUrl": "https://github.com/Pipe-Bomb",
+			"url": "https://github.com/Pipe-Bomb/minisearch-plugin",
+			"repository": "https://github.com/Pipe-Bomb/minisearch-plugin"
 		}
 	]
 }
