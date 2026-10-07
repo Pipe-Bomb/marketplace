@@ -63,6 +63,15 @@
 			"authorUrl": "https://github.com/Pipe-Bomb",
 			"url": "https://github.com/Pipe-Bomb/minisearch-plugin",
 			"repository": "https://github.com/Pipe-Bomb/minisearch-plugin"
+		},
+		{
+			"id": "image-resize",
+			"name": "Image Resize",
+			"description": "Serves resizable image attributes to reduce bandwidth and frontend load times.",
+			"authorName": "Pipe Bomb",
+			"authorUrl": "https://github.com/Pipe-Bomb",
+			"url": "https://github.com/Pipe-Bomb/image-resize-plugin",
+			"repository": "https://github.com/Pipe-Bomb/image-resize-plugin"
 		}
 	]
 }
